@@ -7,25 +7,28 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contact Us
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        To contact us, please fill out the form below. We will get back to you as soon as possible.
+      email: cecilia.ono@nyulmc.org
+      phone: +1 212 777 7777
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: East 30th Street
+        city: New York
+        region: NY
+        postcode: '10016'
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '40.740780'
+        longitude: '-73.973589'
+      directions: Enter The Science Building from 30th Street and go to the 6th floor.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 09:00 to 17:00'
+        - 'Tuesday 09:00 to 17:00'
+        - 'Wednesday 10:00 to 17:00'
+        - 'Thursday 09:00 to 17:00'
+        - 'Friday 09:00 to 17:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
@@ -42,8 +45,8 @@ sections:
         formspree:
           id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          # Enable CAPTCHA
+          captcha: true
     design:
       columns: '1'
 
