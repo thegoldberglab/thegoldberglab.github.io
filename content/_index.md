@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        The
+        Goldberg Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Goldberg Laboratory explores lipid transportation pathways, utilizing innovative models like the first LpL floxed mice and others with altered heart lipid metabolism, to understand heart metabolism, lipotoxicity, and the unique challenges in atherosclerosis repair in mouse models.
   
   - block: collection
     content:
@@ -48,7 +48,7 @@ sections:
           filename: coders.jpg
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: cover
           text_color_light: true
