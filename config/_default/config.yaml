@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: The Goldberg Lab # Website name
-baseURL: 'https://sunnydigital.github.io/thegoldberglab' # Website URL
+baseURL: 'https://sunnydigital.github.io/starter-hugo-research-group' # Website URL
 
 ############################
 ## LANGUAGE
