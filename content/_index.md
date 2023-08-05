@@ -16,7 +16,27 @@ sections:
         <br>
         
         The Goldberg Laboratory explores lipid transportation pathways, utilizing innovative models like the first LpL floxed mice and others with altered heart lipid metabolism, to understand heart metabolism, lipotoxicity, and the unique challenges in atherosclerosis repair in mouse models.
-  
+
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: nyu-science-building.jpg
+          filters:
+            brightness: 1
+          parallax: true
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
   - block: collection
     content:
       title: Latest News
@@ -45,7 +65,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: nyu-science-building.jpg
           filters:
             brightness: 1
           parallax: true
