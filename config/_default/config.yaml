@@ -3,7 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: The Goldberg Lab # Website name
+title: |
+  {{< figure src="logo_deprec.png" id="Grossman logo" >}} The Goldberg Lab
+# Previous was website name
+
 baseURL: 'https://thegoldberglab.netlify.app' # Website URL
 
 ############################
